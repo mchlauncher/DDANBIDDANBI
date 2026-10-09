@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "DDANBIDDANBI"
+title = "딴드코어"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/DDANBIDDANBI"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/DDANBIDDANBI"
 supportLink = "https://github.com/mchlauncher/DDANBIDDANBI/issues"
 
 [ejs.welcome]
-welcomeHeader = "DDANBIDDANBI"
+welcomeHeader = "딴드코어"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."
